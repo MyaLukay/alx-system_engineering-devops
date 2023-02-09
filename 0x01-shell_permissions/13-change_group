@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrh school hello
+chgrh hello school
