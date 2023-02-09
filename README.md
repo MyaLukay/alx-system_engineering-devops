@@ -1,2 +1,1 @@
-#!/bin/bash
-Tasks 0. My name is Betty
+0x01. Shell, permission
